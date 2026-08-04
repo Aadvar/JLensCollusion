@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+out/
+lenses/
+models/
+*.npy
+*.pt
+.DS_Store
